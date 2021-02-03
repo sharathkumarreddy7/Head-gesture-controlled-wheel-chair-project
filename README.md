@@ -1,7 +1,7 @@
 # Head-gesture-controlled-wheel-chair-project
-this contains all the description and code for my project.
+Head Gesture controlled model Wheel Chair by Sharath Kumar Reddy and Dipayan Das
 
-This helps in easy motion of patients with phocomeila and other paralysis problems.
+This project helps in easy motion of patients with phocomeila and other paralysis problems.
 They can move as per their wish, just with their head gestures.
 
 We use MPU6050(Accelerometer+gyroscope) to detect change in angles and rotation speed.
