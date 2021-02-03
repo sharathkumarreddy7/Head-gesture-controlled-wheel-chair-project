@@ -1,5 +1,5 @@
 # Head-gesture-controlled-wheel-chair-project
-Head Gesture controlled model Wheel Chair by Sharath Kumar Reddy and Dipayan Das
+Head Gesture controlled model Wheel Chair by Sharath Kumar Reddy
 
 This project helps in easy motion of patients with phocomeila and other paralysis problems.
 They can move as per their wish, just with their head gestures.
