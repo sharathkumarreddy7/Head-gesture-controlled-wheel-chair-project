@@ -2,7 +2,6 @@
 Head Gesture controlled model Wheel Chair by Sharath Kumar Reddy
 
 Model working: 
-
 https://user-images.githubusercontent.com/51874859/204208845-6cdc3347-9281-461e-982b-61eb1706b6b4.mp4
 
 
