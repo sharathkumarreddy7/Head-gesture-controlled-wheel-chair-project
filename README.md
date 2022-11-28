@@ -12,5 +12,3 @@ This project helps in the easy motion of patients with phocomelia and other para
 
 The Arduino microcontroller is used to analyze the signals from MPU6050. The project code is written in such a way that it gets synchronized between motors rotation and speed.
 Hence the wheels work accordingly.
-
-Working of the Model: https://drive.google.com/file/d/1Gy7WMA3GDJ9JlF359ZHzq2sE7fxmXKlI/view?usp=sharing
