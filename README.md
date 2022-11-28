@@ -2,7 +2,7 @@
 Head Gesture controlled model Wheel Chair by Sharath Kumar Reddy
 
 Model working: 
-https://user-images.githubusercontent.com/51874859/204208845-6cdc3347-9281-461e-982b-61eb1706b6b4.mp4
+https://user-images.githubusercontent.com/51874859/204209772-e9fda2a7-e3aa-4b65-8258-815db8335e16.mp4
 
 
 
@@ -12,3 +12,4 @@ This project helps in the easy motion of patients with phocomelia and other para
 
 The Arduino microcontroller is used to analyze the signals from MPU6050. The project code is written in such a way that it gets synchronized between motors rotation and speed.
 Hence the wheels work accordingly.
+Raw model: https://drive.google.com/file/d/1Gy7WMA3GDJ9JlF359ZHzq2sE7fxmXKlI/view?usp=sharing
